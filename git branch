@@ -1,0 +1,25 @@
+## branch 
+
+-----if branch is present it will move to that branch or else it will create and will be checkout
+```
+git checkout -b main(bname)
+
+```
+
+-----creates branch
+```
+git branch main(bname) 
+```
+
+-----shows all the branches present
+```
+git branch 
+```
+
+----- the branch will be checkout
+```
+git checkout main(bname) 
+```
+
+after commit the changes won't go to remote only on pushing it will reflect the changes
+
