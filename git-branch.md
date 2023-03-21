@@ -1,4 +1,4 @@
-## branch 
+## branch  
 
 -----if branch is present it will move to that branch or else it will create and will be checkout
 ```
