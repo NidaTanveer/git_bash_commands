@@ -26,6 +26,24 @@ after commit the changes won't go to remote only on pushing it will reflect the 
 
 # fork and clone
 
-
 fork --- when we fork a repository we are saving a copy of repository only in our github account
+
 clone --- to get the project in local we clone
+
+
+## Merge
+First the pr should be merged if not and branch is deleted it will close the pr without merge
+
+initially checkout the branch in which u want the git1branch to merge example if u want to merge git1 into master 
+1. checkout master 
+2. use the below command
+```
+git merge branchname
+```
+### delete a branch
+
+to delete a branch 
+```git branch -d branchname
+
+git push origin --delete branchname
+```
