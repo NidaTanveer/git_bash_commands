@@ -28,4 +28,5 @@ after commit the changes won't go to remote only on pushing it will reflect the 
 
 
 fork --- when we fork a repository we are saving a copy of repository only in our github account
+
 clone --- to get the project in local we clone
