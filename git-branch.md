@@ -11,14 +11,21 @@ git checkout -b main(bname)
 git branch main(bname) (inorder to checkout we need to use **git checkout branchn** command)
 ```
 
+----- to checkout branch
+```
+git checkout main(bname) 
+```
+
 -----shows all the branches present
 ```
 git branch 
 ```
 
------ the branch will be checkout
-```
-git checkout main(bname) 
-```
-
 after commit the changes won't go to remote only on pushing it will reflect the changes
+
+
+# fork and clone
+
+
+fork --- when we fork a repository we are saving a copy of repository only in our github account
+clone --- to get the project in local we clone
