@@ -22,4 +22,3 @@ git checkout main(bname)
 ```
 
 after commit the changes won't go to remote only on pushing it will reflect the changes
-
